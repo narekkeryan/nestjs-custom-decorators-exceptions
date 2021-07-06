@@ -22,6 +22,16 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Quick Setup
+
+```
+git clone git@github.com:narekkeryan/nestjs-custom-decorators-exceptions.git
+cd nestjs-custom-decorators-exceptions
+docker-compose up
+yarn install
+yarn start:dev
+```
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
